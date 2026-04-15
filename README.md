@@ -63,6 +63,7 @@ Smart-Todo/
 1. 用 IDEA 打开 `web_backend`
 2. 找到 `WebBackendApplication` 类
 3. 点击运行（Run）启动 Spring Boot 服务
+4. 到web_backend/src/main/resources/application.properties中添加deepseek API key
 
 ### 2. 前端启动（终端）
 
