@@ -1,0 +1,14 @@
+# 后端过滤
+**/build/
+**/.gradle/
+**/.idea/
+**/out/
+
+# 前端过滤
+**/node_modules/
+**/dist/
+.env.local
+
+# 系统与日志
+.DS_Store
+*.log
